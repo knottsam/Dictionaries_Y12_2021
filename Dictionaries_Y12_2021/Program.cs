@@ -17,7 +17,7 @@ namespace Dictionaries_Y12_2021
             exampleDictionary.Add(1, "Maz");
             exampleDictionary.Add(2, "Jack");
             exampleDictionary.Add(3, "Szymon");
-            exampleDictionary.Add(4, "Maz");
+            exampleDictionary.Add(4, "Maz");//Initial Commit
 
             foreach (KeyValuePair<int, string> pair in exampleDictionary)
             {
